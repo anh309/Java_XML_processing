@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+	<employee>
+		<id>1</id>
+		<name>Nguyen van a</name>
+		<gender>1</gender>
+		<salary>5000000</salary>
+		<address>232 lê lợi</address>
+	</employee>
+</unit>
